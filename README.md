@@ -23,4 +23,4 @@ This project analyzes retail sales data to evaluate sales performance, profitabi
   - Average Shipping Days : 4
   - CENTRAL region has most profit
 ## DashBoard Preview:
-![Dashboard Screenshot](Screenshot 2026-02-24 123804.png)
+![Dashboard Screenshot](dashboard.png)
